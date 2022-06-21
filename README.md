@@ -4,7 +4,7 @@ shannonfonseka/shannonfonseka is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 - 👦🏻 I’m @shannonfonseka, 18, an amateur programmer living in 🏝 Sri Lanka.
-- 👀 I’m interested in 👨🏻‍💻 software engineering, 🎬 film and 🎭 drama directing and 📺 tv channel broadcasting.
+- 👀 I’m interested in 👨🏻‍💻 software engineering.
 - 🌱 I’m currently learning visual basic and kotlin. I've already learned pascal.
 - 📂 I'm working on a ███████████ program _(might take months or years)_. 
 - 📫 You can reach me on [telegram](https://t.me/shannonf0nseka), or by [e-mail](mailto:fonsekashannonshiwantha@gmail.com).
