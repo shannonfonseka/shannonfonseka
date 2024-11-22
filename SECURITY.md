@@ -3,7 +3,7 @@
 <br/>
 
 **2. reporting vulnerabilities**
-- if you identify a potential security vulnerability in any of my projects, please contact me directly via **[telegram](https://t.me/shannonf0nseka)** or **[secure email](mailto:hello.shannonfonseka@proton.me)**. (**[pgp](https://raw.githubusercontent.com/shannonfonseka/shannonfonseka/refs/heads/main/pgp/0x74A52B0D-pub.asc)**). i aim to acknowledge and respond to all security-related communications within **seven business days**.
+- if you identify a potential security vulnerability in any of my projects, please contact me about the affected project directly via **[telegram](https://t.me/shannonf0nseka)**, **[secure email](mailto:hello.shannonfonseka@proton.me)** (**[pgp](https://raw.githubusercontent.com/shannonfonseka/shannonfonseka/refs/heads/main/pgp/0x74A52B0D-pub.asc)**) or draft a **[new security advisory](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)**. i aim to acknowledge and respond to all security-related communications within **seven business days**.
 <br/>
 
 **3. handling of vulnerabilities**
