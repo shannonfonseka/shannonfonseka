@@ -15,7 +15,7 @@
 
 - 🌐 visit my site [shannonfonseka.me](https://www.shannonfonseka.me) [^12][^13]
 
-[^1]: all related information are on my cv, you can download it from [here](https://github.com/shannonfonseka/shannonfonseka/blob/main/docs/Fonseka2025_CVPublic.pdf).
+[^1]: all related information are on my cv, you can view/download it from [here](https://github.com/shannonfonseka/shannonfonseka/blob/main/docs/Fonseka2025_CVPublic.pdf).
 [^2]: my published documents [here](https://github.com/shannonfonseka/shannonfonseka/blob/main/docs/readme.md).
 [^3]: my security policy [here](https://github.com/shannonfonseka/shannonfonseka/security/policy).
 [^4]: create a new security advisory [here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new).
@@ -25,6 +25,6 @@
 [^8]: my `startx` project [here](https://github.com/fonseware/StartX).
 [^9]: my `focusbar` project [here](https://github.com/fonseware/FocusBar).
 [^10]: my telegram [here](https://t.me/shannonf0nseka).
-[^11]: this is my public email [here](mailto:hello.shannonfonseka@proton.me).
-[^12]: website may experience downtimes.
+[^11]: my public email [here](mailto:hello.shannonfonseka@proton.me).
+[^12]: my website may experience downtimes.
 [^13]: _i hereby certify that the information provided above is true and accurate to the best of my knowledge._ 
