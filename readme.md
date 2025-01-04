@@ -1,9 +1,10 @@
 👋🏼 **hi there visitor!**
 
 - 👦🏻 i’m **shannon fonseka**, 21, living in sri lanka. [^1]
-  - 🏗️ i am a passionate and detail-oriented computer science and software engineering student with a good grasp in developing software programs to operating advanced cnc machines. [^1]
-  - 🪴 i have cultivated a solid foundation in software development, teamwork, and technical problem-solving skills. [^1]
-  - 🙋🏻‍♂️ i'm excited to continue building my skills as i dive deeper into the field and better understand the requirements of the industry. [^1]
+- 🏗️ i am a passionate and detail-oriented computer science and software engineering student with a good grasp in developing software programs to operating advanced cnc machines. [^1]
+- 🪴 i have cultivated a solid foundation in software development, teamwork, and technical problem-solving skills. [^1]
+- 🙋🏻‍♂️ i'm excited to continue building my skills as i dive deeper into the field and better understand the requirements of the industry. [^1]
+<br/>
 
 - 👀 i’m interested in **computer programming**, **database & server management**, **photo & video editing**, **television & radio broadcasting**, and **3d animation & design**. [^1]
 - 🌱 i’m currently a student, actively looking for a job and learning **c# in wpf**, **python for windows**, and **kotlin for android**. i've learned **vb.net**, and **pascal**. [^1]
