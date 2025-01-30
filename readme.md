@@ -11,7 +11,7 @@
 >
 > Thank you for understanding and I appreciate your continued support!
 
-- 🏗️ I am currently working on these projects, so a little worked up. In the meantime, check out these projects:
+- 🏗️ I am currently working on these projects, so a little worked up. In the meantime, check them out when they are available:
   - [Vauhlt for PC](https://github.com/fonseware/VauhltDesktop), view [roadmap](https://github.com/fonseware/VauhltDesktop/blob/main/docs/roadmap.md)
   - [Pilot](https://github.com/fonseware/Pilot), view [roadmap](https://github.com/fonseware/Pilot/blob/main/docs/roadmap.md)
   - [StartX](https://github.com/fonseware/StartX), view [roadmap](https://github.com/fonseware/StartX/blob/main/docs/roadmap.md)
