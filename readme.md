@@ -22,4 +22,4 @@
 
 - 📫 You can reach me on [telegram](https://t.me/shannonf0nseka) or [secure email](mailto:hello.shannonfonseka@proton.me). View/download public PGP key [here](https://raw.githubusercontent.com/shannonfonseka/shannonfonseka/refs/heads/main/pgp/0x74A52B0D-pub.asc).
 
-- ⚠️ Read my [security policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & report any new security issues in any of my projects here [new](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new). I will be happy to assist.
+- ⚠️ Read my [security policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & report any new security issues in any of my projects [here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new). I will be happy to assist.
