@@ -12,14 +12,14 @@
 > Thank you for understanding and I appreciate your continued support!
 
 - ⚒️ My currently completed and maintained work:
-  - [ElectronJS App Creator](https://github.com/fonseware/electronjs-setup/)
+  - [Electron.js Setup](https://github.com/fonseware/electronjs-setup/)
 
 - 🏗️ I am currently working on these projects, so a little worked up. In the meantime, check them out when they are available:
-  - [Vauhlt for PC](https://github.com/fonseware/VauhltDesktop), view [roadmap](https://github.com/fonseware/VauhltDesktop/blob/main/docs/roadmap.md)
-  - [Pilot](https://github.com/fonseware/Pilot), view [roadmap](https://github.com/fonseware/Pilot/blob/main/docs/roadmap.md)
-  - [StartX](https://github.com/fonseware/StartX), view [roadmap](https://github.com/fonseware/StartX/blob/main/docs/roadmap.md)
-  - [FocusBar](https://github.com/fonseware/FocusBar), view [roadmap](https://github.com/fonseware/FocusBar/blob/main/docs/roadmap.md)
-  - [Vendere](https://github.com/fonseware/Vendere). view [roadmap](https://github.com/fonseware/Vendere/blob/main/docs/roadmap.md)
+  - [Vauhlt for PC](https://github.com/fonseware/VauhltDesktop)
+  - [Pilot](https://github.com/fonseware/Pilot)
+  - [StartX](https://github.com/fonseware/StartX)
+  - [FocusBar](https://github.com/fonseware/FocusBar)
+  - [Vendere](https://github.com/fonseware/Vendere)
 
 - 📄 Check out my published docs [here](https://github.com/shannonfonseka/shannonfonseka/blob/main/docs/readme.md).
 
