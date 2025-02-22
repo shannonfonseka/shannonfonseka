@@ -6,7 +6,7 @@
 - 🌱 I am currently a student, actively looking for a job and learning `C#` in WPF, `Python` for Windows, and `Kotlin` for Android. I have learned `VB.NET`, and `Pascal`.
 
 - ⚒️ My currently completed and maintained work:
-  - [Electron.js Setup](https://github.com/fonseware/electronjs-setup/)
+  - [Electron.js Setup Script](https://github.com/fonseware/electronjs-setup/)
 
 - 🏗️ I am currently working on these projects, so a little worked up. In the meantime, check them out when they are available:
   - [Vauhlt for PC](https://github.com/fonseware/VauhltDesktop)
