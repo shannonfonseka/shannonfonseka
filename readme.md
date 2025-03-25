@@ -5,7 +5,7 @@
 
 #### 🛠️ Projects
 - **Completed:** [Electron.js Setup Script](https://github.com/fonseware/electronjs-setup/)
-- **In Progress:** [Vauhlt for PC](https://github.com/fonseware/VauhltDesktop), [Pilot](https://github.com/fonseware/Pilot), [StartX](https://github.com/fonseware/StartX), [FocusBar](https://github.com/fonseware/FocusBar), [Vendere](https://github.com/fonseware/Vendere).
+- **In Progress:** [FocusBar](https://github.com/fonseware/FocusBar), [Vendere](https://github.com/fonseware/Vendere).
 
 #### 📚 Docs & Contact
 - 📄 [Published Docs](https://github.com/shannonfonseka/shannonfonseka/blob/main/docs/readme.md)
