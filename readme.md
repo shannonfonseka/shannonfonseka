@@ -4,8 +4,8 @@
 - 🎓 Currently learning `C#` (WPF), `Python`, and `Kotlin` (Android). Previously worked with `VB.NET` and `Pascal`.
 
 #### 🛠️ Projects
-- **Completed:** [Electron.js Setup Script](https://github.com/fonseware/electronjs-setup/)
-- **In Progress:** [FocusBar](https://github.com/fonseware/focusbar), [Vendere](https://github.com/fonseware/vendere) and [Vauhlt for PC](https://github.com/fonseware/vauhltdesktop)
+- **Completed:** [Electron.js Setup Script](https://github.com/fonseware/electronjs-setup/).
+- **In Progress:** [FocusBar](https://github.com/fonseware/focusbar), [Vendere](https://github.com/fonseware/vendere) and [Vauhlt for PC](https://github.com/fonseware/vauhltdesktop).
 
 #### 📚 Docs & Contact
 - 📄 View my [published docs](https://github.com/shannonfonseka/shannonfonseka/blob/main/docs/readme.md)
