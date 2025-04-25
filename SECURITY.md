@@ -2,7 +2,7 @@
 As a sole developer, I am committed to creating secure, reliable open-source and closed-source projects on GitHub. This security policy outlines my approach to identifying, reporting, and addressing security vulnerabilities in my projects.
 
 **2. Reporting Vulnerabilities**
-If you identify a potential security vulnerability in any of my projects, please contact me about the affected project directly via **[Telegram](https://t.me/shannonf0nseka)**, **[Secure Email](mailto:hello.shannonfonseka@proton.me)** or draft a **[New Security Advisory](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)**. I aim to acknowledge and respond to all security-related communications within **seven business days**.
+If you identify a potential security vulnerability in any of my projects, please contact me about the affected project directly using the contacts options in my profile or draft a **[new security advisory](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)**. I aim to acknowledge and respond to all security-related communications within **seven business days**.
 
 **3. Handling of Vulnerabilities**
 Upon receiving a vulnerability report, I will:
