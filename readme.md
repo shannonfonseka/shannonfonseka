@@ -4,6 +4,12 @@
 - 🎓 New to field of software engineering and currently learning `C#` (WPF), `Python`, `Java`, `Cpp`, `SQL`, `GD Script`, and `Kotlin` (Android). Previously worked with `VB.NET`, `Scratch` and `Pascal`.
 - 🎯 I've come a long way and there's still a long way to go. As a computer science & software engineering student, my goal is to change the world one byte at a time.
 
+<div>
+  <a href="https://github.com/shannonfonseka/">
+    <img src="https://github-readme-stats.vercel.app/api?username=shannonfonseka&show_icons=true&theme=transparent" alt="FocusBar" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  </a>
+</div>
+
 #### 🛠️ Projects
 <!-- Completed Projects -->
 <details open>
@@ -38,5 +44,3 @@
 
 > #### 💡 Note
 > Many of my projects are deeply personal and represent countless hours of effort. While I value open-source collaboration, I prefer to keep some source code private. If you’re interested in contributing, feel free to reach out privately. Thank you for understanding!
-
-![Shannon Fonseka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shannonfonseka&show_icons=true&theme=transparent)
