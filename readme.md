@@ -4,38 +4,9 @@
 - 🎓 New to field of software engineering and currently learning `C#` (WPF), `Python`, `Java`, `Cpp`, `SQL`, `GD Script`, and `Kotlin` (Android). Previously worked with `VB.NET`, `Scratch` and `Pascal`.
 - 🎯 I've come a long way and there's still a long way to go. As a computer science & software engineering student, my goal is to change the world one byte at a time.
 
-<div>
-  <a href="https://github.com/shannonfonseka/">
-    <img src="https://github-readme-stats.vercel.app/api?username=shannonfonseka&show_icons=true&theme=date_night" alt="FocusBar" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  </a>
-</div>
-
 #### 🛠️ Projects
-<!-- Completed Projects -->
-<details open>
-<summary><bold>Completed</bold></summary>
-<div style="display: grid; grid-template-columns: 1fr; gap: 16px; padding: 8px;">
-  <a href="https://github.com/fonseware/electronjs-setup/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fonseware&repo=electronjs-setup&theme=date_night" alt="Electron.js Setup Script" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  </a>
-</div>
-</details>
-
-<!-- In Progress Projects -->
-<details close>
-<summary><bold>  In Progress</bold></summary>
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; padding: 8px;">
-  <a href="https://github.com/fonseware/focusbar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fonseware&repo=focusbar&theme=date_night" alt="FocusBar" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  </a>
-  <a href="https://github.com/fonseware/vendere">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fonseware&repo=vendere&theme=date_night" alt="Vendere" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  </a>
-  <a href="https://github.com/fonseware/vauhltdesktop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fonseware&repo=vauhltdesktop&theme=date_night" alt="Vauhlt for PC" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  </a>
-</div>
-</details>
+- **Completed:** [Electron.js Setup Script](https://github.com/fonseware/electronjs-setup/).
+- **In Progress:** [FocusBar](https://github.com/fonseware/focusbar), [Vendere](https://github.com/fonseware/vendere) and [Vauhlt for PC](https://github.com/fonseware/vauhltdesktop).
 
 #### 📚 Docs & Contact
 - 📄 View my [published docs](https://github.com/shannonfonseka/shannonfonseka/blob/main/docs/readme.md)
