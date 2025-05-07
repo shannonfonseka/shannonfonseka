@@ -1,7 +1,10 @@
 #### 👋🏼 Hi there, I'm Shannon Fonseka!
-- 🌍 21, based in Sri Lanka.
-- 💻 Passionate about programming, server management, multimedia editing, and 3D design.
-- 🎓 Currently learning `C#` (WPF), `Python`, and `Kotlin` (Android). Previously worked with `VB.NET` and `Pascal`.
+![Shannon Fonseka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shannonfonseka&show_icons=true&theme=transparent)
+
+- 🌍 21 years old, based in Sri Lanka.
+- 💻 Passionate about programming, data and server management, multimedia editing, and 3D designwith a primary focus on software engineering.
+- 🎓 New to field of software engineering and currently learning `C#` (WPF), `Python`, `Java`, `Cpp`, `SQL`, `GD Script`, and `Kotlin` (Android). Previously worked with `VB.NET`, `Scratch` and `Pascal`.
+- 🎯 I've come a long way and there's still a long way to go. As a computer science & software engineering student, my goal is to change the world one byte at a time.
 
 #### 🛠️ Projects
 - **Completed:** [Electron.js Setup Script](https://github.com/fonseware/electronjs-setup/).
