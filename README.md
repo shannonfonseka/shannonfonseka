@@ -1,18 +1,14 @@
-#### 👋🏼 Hi there, I'm Shannon Fonseka!
-- 🌍 21 years old, based in Sri Lanka.
-- 💻 Passionate about programming, data and server management, multimedia editing, and 3D designwith a primary focus on software engineering.
-- 🎓 New to field of software engineering and currently learning `C#` (WPF), `Python`, `Java`, `Cpp`, `SQL`, `GD Script`, and `Kotlin` (Android). Previously worked with `VB.NET`, `Scratch` and `Pascal`.
-- 🎯 I've come a long way and there's still a long way to go. As a computer science & software engineering student, my goal is to change the world one byte at a time.
+#### **🛠️ i currently work on:**
 
-#### 🛠️ Projects
-- **Completed:** [Electron.js Setup Script](https://github.com/fonseware/electronjs-setup/).
-- **In Progress:** [Screen(tool)box](https://github.com/fonseware/screenbox), [Vendere](https://github.com/fonseware/vendere) and [Vauhlt for PC](https://github.com/fonseware/vauhltdesktop).
+> [<img src="https://github.com/fonseware/vendere/logo.png" width="32" height="32" align="center">](https://github.com/fonseware/vendere)&nbsp;&nbsp;[**vendere**](https://github.com/fonseware/vendere) — a custom point of sale system software as a passion project.  
+> [<img src="https://github.com/fonseware/vauhltdesktop/logo.png" width="32" height="32" align="center">](https://github.com/fonseware/vauhltdesktop)&nbsp;&nbsp;[**vauhlt pc**](https://github.com/fonseware/vauhltdesktop) — a file encyption and decryption software as a passion project.  
+> [<img src="https://github.com/fonseware/electronjs-setup/logo.png" width="32" height="32" align="center">](https://github.com/fonseware/electronjs-setup)&nbsp;&nbsp;[**electron.js setup**](https://github.com/fonseware/electronjs-setup) — a free electron.js setup script which helps users to create new electron projects.  
+> [<img src="https://github.com/fonseware/screenbox/logo.png" width="32" height="32" align="center">](https://github.com/fonseware/screenbox)&nbsp;&nbsp;[**screenbox**](https://github.com/fonseware/screenbox) — a utlilty for oled screens.  
+> ... and more repos [here](https://github.com/shannonfonseka?tab=repositories)
 
-#### 📚 Docs & Contact
-- 🌐 View my [webpage](https://shannonfonseka.github.io/)
-- 📄 View my [published docs](https://github.com/shannonfonseka/shannonfonseka/blob/main/doc/readme.md)
-- 📫 Reach me on [Telegram](https://t.me/shannonf0nseka) or [email](mailto:hello.shannonfonseka@proton.me). <sup> ([PGP Key](https://raw.githubusercontent.com/shannonfonseka/shannonfonseka/refs/heads/main/pgp/0x74A52B0D-pub.asc)) </sup>
-- ⚠️ View [security policy](https://github.com/shannonfonseka/shannonfonseka/security/policy). <sup>([draft new](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new))</sup>
+> #### 💡 note
+> many of my projects are deeply personal and represent countless hours of effort. while i value open-source collaboration, i prefer to keep some source code private. if you’re interested in contributing, feel free to reach out privately. thank you for understanding!
 
-> #### 💡 Note
-> Many of my projects are deeply personal and represent countless hours of effort. While I value open-source collaboration, I prefer to keep some source code private. If you’re interested in contributing, feel free to reach out privately. Thank you for understanding!
+> #### 🌏 view my site [fonseware.com](https://fonseware.com)
+
+> #### 🛡️ see [security my policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & [report here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)
