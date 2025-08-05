@@ -11,4 +11,4 @@
 
 > #### 🌏 view my site [fonseware.com](https://fonseware.com)
 
-> #### 🛡️ see [security my policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & [report here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)
+> #### 🛡️ see the [security policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & [report here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)
