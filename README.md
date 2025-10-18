@@ -17,4 +17,4 @@
 > #### 🛡️ see the [security policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & [report here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)
 [^1]: main reasons are because i discovered a "free" version of OBS and Captura was sold on Microsoft Store by some clown with all open source licenses removed; see https://github.com/MathewSachin/Captura/issues/405 .
 fearing for people stealing my work i am making all my projects private with a custom license.
-[^2]: since my website and other material is hosted on a home-made webserver, frequent downtimes may arise. the site is under construction
+[^2]: this is my personal webserver and since my website and other material is hosted on a home-made webserver, frequent downtimes may arise. and the site is under construction, you may see broken links and missing content.
