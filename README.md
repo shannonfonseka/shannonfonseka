@@ -11,7 +11,7 @@
 > #### 💡 note
 > many of my projects are deeply personal and represent countless hours of effort. while i value open-source collaboration, i prefer to keep some source code private. if you’re interested in contributing, feel free to reach out privately. thank you for understanding! [^1]
 
-> #### 🌏 view my site [fonseware.com](https://fonseware.com) [^2]
+> #### 🌏 view my site [fonseware.com](https://fnswe.com) [^2]
 
 > #### ✉️ mail me at [hello@fonseware.com](mailto:hello@fonseware.com)
 
