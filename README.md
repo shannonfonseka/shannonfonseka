@@ -1,9 +1,3 @@
-#### **🛠️ i currently work on:**
-
-> all my major projects have now moved to my org mentioned below. you can find all my active projects' development over there. this profile now mainly hosts a few smaller personal experiments and my academic related repos. explore everything at the org to see the full work!
->
-> want to check my repos anyway? click [here](https://github.com/shannonfonseka?tab=repositories)
-
 #### **👨🏻‍💻 my activity**
 <!--START_SECTION:waka-->
 
@@ -15,6 +9,12 @@ C#      1 min           ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+#### **🛠️ i currently work on:**
+
+> all my major projects have now moved to my org mentioned below. you can find all my active projects' development over there. this profile now mainly hosts a few smaller personal experiments and my academic related repos. explore everything at the org to see the full work!
+>
+> want to check my repos anyway? click [here](https://github.com/shannonfonseka?tab=repositories)
 
 > #### 💡 note
 >
