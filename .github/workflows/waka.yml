@@ -15,9 +15,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          # This controls what text shows up. 
-          # You can change this to False if you want a cleaner look.
-          SHOW_TIME: true 
-          # This ensures it shows languages (C#, etc.)
-          SHOW_LANGUAGE: true 
+          SHOW_TIME: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
