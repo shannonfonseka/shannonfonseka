@@ -5,8 +5,7 @@
 > want to check my repos anyway? click [here](https://github.com/shannonfonseka?tab=repositories)
 
 #### **👨🏻‍💻 my activity**
-> ```
-> <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```txt
 From: 13 January 2026 - To: 20 January 2026
@@ -16,7 +15,6 @@ C#      1 min           ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-> ```
 
 > #### 💡 note
 >
