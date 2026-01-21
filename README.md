@@ -4,6 +4,11 @@
 >
 > want to check my repos anyway? click [here](https://github.com/shannonfonseka?tab=repositories)
 
+#### **👨🏻‍💻 my activity**
+> ```
+> <!--START_SECTION:waka-->[\s\S]+<!--END_SECTION:waka-->
+> ```
+
 > #### 💡 note
 >
 > many of my projects are deeply personal and represent countless hours of effort. while i value open-source collaboration, i prefer to keep certain source code private. if you’re interested in contributing, feel free to reach out privately. thank you for understanding! [^1]
