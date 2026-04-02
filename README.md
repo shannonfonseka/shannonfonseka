@@ -1,5 +1,5 @@
 #### **👨🏻‍💻 my skills**
-> <kbd>c#</kbd>
+> <kbd>under construction</kbd>
 
 #### **🛠️ i currently work on:**
 
