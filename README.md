@@ -12,11 +12,11 @@
 > many of my projects are deeply personal and represent countless hours of effort. while i value open-source collaboration, i prefer to keep certain source code private. if you’re interested in contributing, feel free to reach out privately. thank you for understanding! [^1]
 
 > #### 🌏 view my site [fonseware.com](https://fnswe.me) [^2]
-
+>
 > #### ✉️ mail me at [hello@fonseware.com](mailto:hello@fonseware.com)
-
+>
 > #### 🏢 view my [fonseware](https://github.com/fonseware) github org
-
+>
 > #### 🛡️ see the [security policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & [report here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)
 
 [^1]: main reasons are because i discovered a "free" version of OBS and Captura was sold on Microsoft Store by someone with all open source licenses removed; see [here](https://github.com/MathewSachin/Captura/issues/405). fearing for people stealing my work i am making all my projects private with a custom license.
