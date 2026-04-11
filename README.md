@@ -1,5 +1,5 @@
 #### **👨🏻‍💻 my skills**
-> <kbd>under construction</kbd>
+> <kbd>windows .net programming</kbd>  <kbd>website developement</kbd>  <kbd>media, arts & entertainment</kbd>  <kbd>architecture & design</kbd>  <kbd>server architecture & hosting</kbd>  <kbd>docker containerisations</kbd> <kbd>2d & 3d design</kbd> | <kbd>c#</kbd> <kbd>wpf</kbd> <kbd>winforms</kbd> <kbd>xaml</kbd> <kbd>vb.net</kbd> <kbd>python</kbd> <kbd>html</kbd> <kbd>css</kbd> <kbd>tw-css</kbd> <kbd>sql</kbd> <kbd>nosql</kbd> <kbd>godot-engine</kbd> <kbd>krita</kbd> <kbd>coreldraw</kbd> <kbd>cloudflare</kbd> <kbd>docker</kbd> <kbd>nginx</kbd> <kbd>ollama</kbd> <kbd>3dsmax</kbd> <kbd>vray</kbd> <kbd>blender</kbd> <kbd>maya</kbd> <kbd>adobe illustrator</kbd> <kbd>adobe photoshop</kbd> <kbd>adobe after effects</kbd> <kbd>autocad</kbd> <kbd>adobe premiere pro</kbd> <kbd>fruityloop studio</kbd>
 
 #### **🛠️ i currently work on:**
 
@@ -8,11 +8,8 @@
 > want to check my repos anyway? click [here](https://github.com/shannonfonseka?tab=repositories)
 
 > #### 🌏 view my site [fonseware.com](https://fnswe.me) [^2]
->
 > #### ✉️ mail me at [hello@fonseware.com](mailto:hello@fonseware.com)
->
 > #### 🏢 view my [fonseware](https://github.com/fonseware) github org
->
 > #### 🛡️ see the [security policy](https://github.com/shannonfonseka/shannonfonseka/security/policy) & [report here](https://github.com/shannonfonseka/shannonfonseka/security/advisories/new)
 
 > #### 💡 note
