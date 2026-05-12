@@ -1,5 +1,5 @@
 #### **👨🏻‍💻 my skills**
-> <kbd>windows .net programming</kbd>  <kbd>website developement</kbd>  <kbd>media, arts & entertainment</kbd>  <kbd>architecture & design</kbd>  <kbd>server architecture & hosting</kbd>  <kbd>docker containerisations</kbd> <kbd>2d & 3d design</kbd> | <kbd>c#</kbd> <kbd>wpf</kbd> <kbd>winforms</kbd> <kbd>xaml</kbd> <kbd>vb.net</kbd> <kbd>python</kbd> <kbd>html</kbd> <kbd>css</kbd> <kbd>tw-css</kbd> <kbd>sql</kbd> <kbd>nosql</kbd> <kbd>godot-engine</kbd> <kbd>krita</kbd> <kbd>coreldraw</kbd> <kbd>cloudflare</kbd> <kbd>docker</kbd> <kbd>nginx</kbd> <kbd>ollama</kbd> <kbd>3dsmax</kbd> <kbd>vray</kbd> <kbd>blender</kbd> <kbd>maya</kbd> <kbd>adobe illustrator</kbd> <kbd>adobe photoshop</kbd> <kbd>adobe after effects</kbd> <kbd>autocad</kbd> <kbd>adobe premiere pro</kbd> <kbd>fruityloop studio</kbd>
+> <kbd>windows .net programming</kbd>  <kbd>website developement</kbd>  <kbd>media, arts & entertainment</kbd>  <kbd>architecture & design</kbd>  <kbd>server architecture & hosting</kbd>  <kbd>docker containerisations</kbd> <kbd>2d & 3d design</kbd>
 
 #### **🛠️ i currently work on:**
 
